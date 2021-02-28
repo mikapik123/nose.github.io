@@ -1,0 +1,111 @@
+div > .fondo {background-image: url("https://th.bing.com/th/id/R1cca130ae3c102e6f94ac604d5dea0de?rik=ahSYrBgPxhf6ow&riu=http%3a%2f%2fwww.berenguela.com%2fwp-content%2fuploads%2f2015%2f06%2fRestaurante-O-Dezas%c3%a9is.jpg&ehk=XjdyYJoEFNXZ9K7Fy0daHhF629HKl%2bES0d9kbTXSR60%3d&risl=&pid=ImgRaw");
+height: 100vh;
+position:absolute;
+width: 100vw;
+top:0;
+left: 0;
+z-index: -50; }
+
+img {width: auto;
+height: 200px;
+margin-left: 805px;
+margin-top: -600px; 
+vertical-align: middle;
+}
+
+div > .titulo {position:absolute; 
+left: 48%;
+top: 7%;
+font-size: 30px;
+font-family: cursive;
+color: rgb(200,169,126);
+}
+
+div > .tabla {position:absolute;
+display: inline-block;
+width: 100%;
+left: 0%;
+top: 65%;
+}
+
+div > .iberica {
+display: inline-block;
+width: 33%;
+left: 0%;
+color: red;
+font-size: 25px;
+margin-left:15px;
+margin-right:1000px;
+margin-top: 90px;
+}
+
+div > .marroqui {
+display: inline-block;
+width: 33%;
+left: 33%;
+color: mediumslateblue;
+font-size: 25px;
+margin-left: 0px;
+margin-right:0px;
+margin-top: 120px;
+}
+
+div > .ecuador {
+display: inline-block;
+width: 33%;
+left: 66%;
+color: lime;
+font-size: 25px;
+margin-left: 0px;
+margin-right:1000px;
+margin-top: 170px;
+
+}
+
+div > table > .button {position:absolute;
+bottom:0;
+
+}.fa-seedling {
+
+}
+
+.todo {
+
+}
+
+footer{
+    border-top-style: solid;
+    border-bottom-style: solid;
+    border-left-style: solid;
+    border-right-style: solid;
+    border-top-width: 5px;
+    border-bottom-width: 5px;
+    border-left-width: 5px;
+    border-right-width: 5px;
+    padding-right: 0px;
+    margin-top: 812px;
+    margin-right: 60px;
+    margin-left: 60px;
+    border-radius: 12px;
+    background-color: rgba(0, 0, 0, 0.5);
+    overflow: auto;
+    overflow-x: auto;
+    overflow-y: auto ;
+}
+
+footer a {
+    text-decoration: none;
+    color: white;
+}
+
+.copyright{
+    color: white;
+}
+
+ul{
+margin-top: -200px;
+margin-left: 1720px;
+color: red;
+color: #333;
+text-decoration: none;
+}

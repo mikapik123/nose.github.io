@@ -1,0 +1,120 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+background-image: url(https://cdn.wallpapersafari.com/18/47/IMRCFA.jpg);
+text-align: center;
+background-position: center;
+background-attachment: fixed;
+overflow-x: hidden;
+display: flex;
+flex-direction: column;
+height: 100%;
+}
+
+img {width: 350px;
+height: 190px;
+margin-left: 790px;
+margin-top: 50px; 
+vertical-align: middle;
+}
+
+h1 {
+color: mediumturquoise;
+}
+
+div.rfisa table{
+display: inline-block;
+width: 33%;
+left: 0%;
+color: red;
+font-size: 25px;
+margin-left:15px;
+margin-right:2200px;
+margin-top: -200px;
+}
+
+ul{
+display: inline-block;
+color: aqua;
+font-size: 25px;
+margin-left:40px;
+margin-right:2000px;
+margin-top: 10px;
+}
+
+iframe {
+margin-left: 10px;
+margin-top: 5px; 
+vertical-align: middle;    
+}
+
+img{width: 350px;
+height: 190px;
+margin-left: 790px;
+margin-top: 10px; 
+vertical-align: middle;
+}
+
+.rfisaimg img {
+height: 200px;
+margin-left: 1550px;
+margin-top: -750px; 
+vertical-align: middle;   
+}
+
+a:link {
+color: greenyellow;
+background-color: mediumaquamarine;
+font-size: 20px;
+margin-top: unset;
+}
+
+
+.fas {
+font-size: 500px;
+}
+
+.fa-utensils {
+font-size: 500px;
+}
+
+i{
+margin-top: 60px;
+}
+
+.secopdf{
+margin-top: 800px;
+color: red;
+}
+
+footer{
+    border-top-style: solid;
+    border-bottom-style: solid;
+    border-left-style: solid;
+    border-right-style: solid;
+    border-top-width: 5px;
+    border-bottom-width: 5px;
+    border-left-width: 5px;
+    border-right-width: 5px;
+    padding-right: 0px;
+    margin-top: 20px;
+    margin-right: 60px;
+    margin-left: 60px;
+    border-radius: 12px;
+    background-color: rgba(0, 0, 0, 0.5);
+    overflow: auto;
+    overflow-x: auto;
+    overflow-y: auto ;
+}
+
+footer a {
+    text-decoration: none;
+    color: black;
+}
+
+.copyright{
+    color: tomato;
+}
